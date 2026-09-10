@@ -1,2 +1,6 @@
 # na-bil-invoicing-cart-manager-svc
-billing / critical / na
+
+Team: **billing**  
+Tier: **critical**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
